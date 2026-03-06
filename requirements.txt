@@ -3,4 +3,6 @@ pandas
 matplotlib
 numpy
 altair
+seaborn
 pyarrow
+

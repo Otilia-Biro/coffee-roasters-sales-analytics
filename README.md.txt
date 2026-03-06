@@ -59,7 +59,19 @@ Dashboard features include:
 * Clear visual insights into revenue concentration
 
 ---
+## Dashboard Preview
 
+### Streamlit Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Pareto Analysis
+
+![Pareto Chart](images/pareto_chart.png)
+
+### Sales Distribution
+
+![Sales Chart](images/sales_chart.png)
 ## Key Insights
 
 Key insights from the analysis include:
@@ -68,7 +80,7 @@ Key insights from the analysis include:
 * The top-selling items dominate overall revenue contribution.
 * Product-level analysis helps identify priority items for inventory and marketing focus.
 
-These findings support data-driven decision making in retail operations.
+These findings support data-driven decision-making in retail operations.
 
 ---
 
@@ -128,3 +140,4 @@ This project was created as part of a data analytics portfolio to demonstrate pr
 * Python analytics workflows
 
 The project illustrates how sales data can be transformed into actionable insights using modern analytics tools.
+
